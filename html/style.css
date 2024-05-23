@@ -38,7 +38,7 @@ body {
     font-size: 1.3vh;
     line-height: 4vh;
     position: relative;
-    color: #ffffff;
+    color: #b3ff00;
     z-index: 10;
     font-weight: 550;
     bottom: -0.5vh;
@@ -49,7 +49,7 @@ body {
     right: -1.9vw;
     line-height: 4vh;
     position: relative;
-    color: #ffffff;
+    color: #b3ff00;
     z-index: 10;
     font-weight: 400;
     bottom: -0.5vh;
@@ -93,12 +93,12 @@ body {
     margin-left: 1.6px;
     float: left;
     display: block;
-    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 25% 50%, 0% 0%);
+    clip-path: polygon(6% 5%, 3% 100%, 25% 100%, 36% 18%, 76% 21%, 74% 62%, 46% 65%, 23% 100%, 100% 100%, 100% 0);
 }
 
 .filled {
-    background-color: #3bd2a8 !important;
-}
+    background: rgb(200, 255, 0) !important;
+    }
 
 
 
