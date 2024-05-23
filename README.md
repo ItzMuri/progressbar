@@ -1,8 +1,10 @@
 # Help me by checking out more of my script [Click here](https://kane-shop.tebex.io/category/2596522)
 # This is QBCore Progressbar edited by me and inspired by NoPixel 4.0.
 
-![Screenshot 2024-01-06 175641](https://github.com/rohKane/progressbar/assets/47999933/93ffa56f-215e-4138-a667-ae3be2de6aab)
-![Screenshot 2024-01-06 174953](https://github.com/rohKane/progressbar/assets/47999933/bb656b22-017a-411a-bb7a-6196fab0844a)
+![image](https://github.com/ItzMuri/progressbar/assets/88394932/5bd86f33-8cc0-448c-a599-e7cd98cabde7)
+
+![image](https://github.com/ItzMuri/progressbar/assets/88394932/0b807472-2eb8-42d6-b6de-2f5d34b0efe0)
+
 
 # Ox_lib integration tutorial DOWN HERE
 ### To integrate QBCore progressbar into ox_lib
