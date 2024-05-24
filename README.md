@@ -1,5 +1,3 @@
-# Help me by checking out more of my script [Click here](https://kane-shop.tebex.io/category/2596522)
-# This is QBCore Progressbar edited by me and inspired by NoPixel 4.0.
 
 ![image](https://github.com/ItzMuri/progressbar/assets/88394932/5bd86f33-8cc0-448c-a599-e7cd98cabde7)
 
